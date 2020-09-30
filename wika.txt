@@ -1,0 +1,8 @@
+запуск venv cd Projects/ && source env/bin/activate останов activate, 
+в linux - алиас po
+если одновременно использовать matplotlib и opencv надо бекэнд делать 
+matplotlib.use("TkAgg") по дефолту он QT5Agg и если не импортировано opencv,
+то все хорошо работает
+
+
+
